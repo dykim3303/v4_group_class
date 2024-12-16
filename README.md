@@ -26,7 +26,4 @@ report/: Final report detailing methodology, results discussion, and outlook are
 src/: All the notebooks and codes containing preprocessing, EDA, machine learning pipeline are stored.
 
 ### Dependencies
-python version: 3.10.12
-package versions:
-requirements = {'numpy': "1.24.3", 'matplotlib': "3.7.3",'sklearn': "1.2.2", 'mlxtend': "0.23.0",
-'pandas': "2.0.3",'xgboost': "2.0.1", 'shap': "0.43.0", 'seaborn': "0.12.2",}
+See the finalproj.yml file for dependencies and versions.
